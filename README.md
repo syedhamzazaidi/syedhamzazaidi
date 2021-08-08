@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello! I'm Hamza. I'm currently an Electronics and Instrumentation Engineering senior at BITS Pilani, India. I'm interested in Artificial Intelligence and Quantum Computing. 
+Hello! I'm Hamza. I'm an Electronics and Instrumentation Engineering senior at BITS Pilani, India. I'm interested in Artificial Intelligence and Quantum Computing. 
 
 - 🔭 I’m currently working on ColorAuth - A secure face recognition authenticator
 - 🌱 I’m currently learning Reinforcement Learning (RL)
